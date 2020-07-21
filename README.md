@@ -12,6 +12,6 @@ Caratteristiche:
 Addattamento al **Basket**/**Baskin** di:
 ## Daniele Lolli (aka UncleDan)
 
-Per segnalazioni o richieste di implementazione(tempo permettendo):
+Per segnalazioni o richieste di implementazione (tempo permettendo):
 
 [https://github.com/UncleDan/classifica-basket-excel/issues](https://github.com/UncleDan/classifica-basket-excel/issues)
