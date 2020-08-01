@@ -9,6 +9,9 @@ Caratteristiche:
 * Layout mutuato in gran parte da "Euro_2016.rar" con adattamento all'utilizzo di font liberi
 * Sviluppato in *LibreOffice Calc* (le versioni *Microsoft Excel* sono comunque esportate da LibreOffice Calc)
 
+Limitazioni:
+* con differenze canestri (singole o multiple) superiori a 500 punti la formula per il coefficiente di classifica potrebbe presentare malfunzionamenti
+
 Addattamento al **Basket**/**Baskin** di:
 ## Daniele Lolli (aka UncleDan)
 
