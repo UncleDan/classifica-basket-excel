@@ -31,3 +31,11 @@ Link: https://docs.google.com/spreadsheets/d/1eolCYJhBvqAdTWcEQRFP1jN25sCM7fdgI5
 
 Mirror ne **Il Mio Drive** (uncledan74): https://docs.google.com/spreadsheets/d/1-3PI72CkKLFvBmEqxvK2neg8s1wtgsGxTCs-_3IEz3o/edit?usp=sharing
 
+---
+
+# STRUTTURA_CAMPIONATO
+
+Thanks to: https://www.forumexcel.it/forum/members/divanos.37400/
+
+Link: https://www.forumexcel.it/forum/attachments/struttura-campionato-xlsx.52124/
+
