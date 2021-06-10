@@ -7,6 +7,7 @@ Caratteristiche:
 * Sviluppato in *LibreOffice Calc* (le versioni *Microsoft Excel* sono comunque esportate da LibreOffice Calc)
 
 Per segnalazioni o richieste di implementazione (tempo permettendo):
+
 [https://github.com/UncleDan/classifica-basket-excel/issues](https://github.com/UncleDan/classifica-basket-excel/issues)
 
 Le linguette rosse non sono da stampare o pubblicare.
