@@ -28,3 +28,4 @@ Todo list:
 
 ## Versione Google Sheets:
 [campionato-7-squadre-7-concentramenti-solo-finali CON DATI DI ESEMPIO](https://docs.google.com/spreadsheets/d/1jukpgaSQOXN4NzxMyWj8-NbYatQ_cBrtvV-GZTBbULU/edit?usp=sharing)
+[campionato-7-squadre-7-concentramenti-solo-finali](https://docs.google.com/spreadsheets/d/1c6V7aL0ObMQguLxVhfR0Kxue-fiXj5Pe16Fg4MxrLU4/edit?usp=sharing)
