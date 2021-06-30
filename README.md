@@ -19,13 +19,9 @@ La classifica si aggiorna automaticamente.
 Avvertenze:
 il foglio Analisi_Risultati prende i dati riga per riga dal foglio Calendario: in caso di modifica del Calendario trascinare la formula della prima riga di Analisi_Risultati per un numero di righe pari a quelle di Calendario
 Bug noti:
-* la formula del coefficiente potrebbe avere malfunzionamenti per valori di differenza canestri, anche multipla, superiore a 4999
-* in caso di “sorteggio” delle squadre per parità di tutti i criteri, la classifica delle squadre potrebbe cambiare riaprendo il foglio perché i numeri casuali sono rigenerati ogni volta. Per risolvere il problema fissare i coefficienti incollandoli come valori
 * i link alle mappe non sono cliccabili
 Todo list:
 * protezione celle del foglio calendario migliorabile
 * valutare inserimento analisi risultati playoff
 
 ## Versione Google Sheets:
-[campionato-7-squadre-7-concentramenti-solo-finali CON DATI DI ESEMPIO](https://docs.google.com/spreadsheets/d/1jukpgaSQOXN4NzxMyWj8-NbYatQ_cBrtvV-GZTBbULU/edit?usp=sharing)
-[campionato-7-squadre-7-concentramenti-solo-finali](https://docs.google.com/spreadsheets/d/1c6V7aL0ObMQguLxVhfR0Kxue-fiXj5Pe16Fg4MxrLU4/edit?usp=sharing)
